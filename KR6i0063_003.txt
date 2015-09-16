@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:49.721262
+#+DATE: 2015-08-30 20:08:51.372720
 #+TITLE: 大方廣寶篋經
 #+PROPERTY: CBETA_ID T14n0462
 #+PROPERTY: ID KR6i0063
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 462
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0063_T_000-0466b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0063_T_003-0476b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《大方廣寶篋經》卷下¶
+《大方廣寶篋經》卷下¶
 ¶
 宋天竺三藏求那跋陀羅譯¶
 
@@ -486,5 +485,5 @@
 
 說是經已，文殊師利童子、勝志菩薩¶
 等，及大聲聞大德阿難，及諸大眾，天、龍、夜叉、¶
-諸天及人、乾闥婆等，聞佛所說，皆大歡喜。¶
+諸天及人、乾闥婆等，聞佛所說，皆大歎喜。¶
 《大方廣寶篋經》卷下
